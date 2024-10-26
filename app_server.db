@@ -1,0 +1,8 @@
+import sqlite3
+
+def save_rule(rule_text, ast_structure):
+    conn = sqlite3.connect('rule_engine.db')
+    cursor = conn.cursor()
+    cursor.execute("INSERT INTO rules (rule_text, ast_structure) VALUES (?, ?)", (rule_text, ast_structure))
+    conn.commit()
+    conn.close()
