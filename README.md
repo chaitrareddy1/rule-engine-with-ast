@@ -1,4 +1,3 @@
-Here's a **GitHub README** preview for the **Rule Engine with AST** project. This README includes an overview, setup instructions, usage guide, API documentation, and non-functional considerations.
 
 ---
 
@@ -27,7 +26,7 @@ The **Rule Engine with AST** is a web-based application that allows users to cre
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/rule-engine-ast.git
+   git clone https://github.com/chaitrareddy1/rule-engine-with-ast/tree/main
    cd rule-engine-ast
    ```
 
@@ -94,5 +93,4 @@ The **Rule Engine with AST** is a web-based application that allows users to cre
 
 ---
 
-This README provides an overview and detailed setup for the **Rule Engine with AST**. For further improvements or code contributions, please submit a pull request or open an issue. 
 
