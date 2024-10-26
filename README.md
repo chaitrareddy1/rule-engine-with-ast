@@ -1,5 +1,4 @@
 
----
 
 # Rule Engine with AST
 
@@ -91,6 +90,5 @@ The **Rule Engine with AST** is a web-based application that allows users to cre
 - **Advanced Conditions**: Add support for complex user-defined functions.
 - **UI Enhancements**: Visualize rule flow and structure for better user experience.
 
----
 
 
